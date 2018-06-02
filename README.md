@@ -1,2 +1,2 @@
-# googleio2018
+# Google I/O 2018
 Projeto desenvolvido na oficina de Android no Google I/O 2018
